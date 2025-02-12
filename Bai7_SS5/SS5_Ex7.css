@@ -3,14 +3,24 @@
     color: white;
 }
 .button1{
+    border: none;
     background-color: #0dff00;
     color: white;
+    border-radius: 5px;
+    transition: all 0.3s ease;
 }
 .button2{
+    border: none;
     background-color: yellow;
     color: black;
+    border-radius: 5px;
 }
 .button3{
+    border: none;
     background-color: red;
     color: white;
+    border-radius: 5px;
+}
+.b1{
+    background-color: #F2F2F2;
 }
