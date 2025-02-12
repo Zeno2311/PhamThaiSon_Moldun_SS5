@@ -1,0 +1,31 @@
+/* CASCADING trong CSS */
+ul{
+    background-color: black;
+    color: white;
+}
+/* Ghi đè lại thuộc tính trong CSS */
+ul{
+    background-color: red;
+    color: white;
+}
+
+
+#second-li{
+    background-color: black;
+}
+.demo-class{
+    background-color: green;
+}
+
+/* Giả sử:
+Tạo kiểu dành cho văn bản qua các thuộc tính CSS 
+font-size : 20px; 
+font-weight: bold
+text-decoration: underline*/
+.text-tranform{
+    background-color: blue;
+}
+.Fiss p{
+    background-color: black;
+    color: white;
+}
